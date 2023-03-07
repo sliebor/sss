@@ -1,5 +1,5 @@
-let diena = 'otrdiena';
+const input = document.querySelector('.js-text');
+const submitButton = document.querySelector('.js-submit');
 
-const vards = 'toms'
-
-console.log(diena)
+console.log(input)
+console.log(submitButton)
